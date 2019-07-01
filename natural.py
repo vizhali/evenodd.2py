@@ -1,3 +1,3 @@
-k=int(input(""))
-a=(k/2)*(k+1)
-print(int(a))
+m=int(input(""))
+k=(m/2)*(m+1)
+print(int(k))
