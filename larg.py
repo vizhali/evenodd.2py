@@ -1,9 +1,9 @@
-a,b,c=map(int,(input("Enter the number").split()))
-if (a > b and a > c):
-          print(a)
-elif (b > a and b > c):
-          print(b)
-elif (c > a and c > b):
-          print(c)
+d,e,f=map(int,(input("Enter the number").split()))
+if (d > e and d > f):
+          print(d)
+elif (e > d and e > f):
+          print(e)
+elif (f > d and f > e):
+          print(f)
 else:
-          print(a)
+          print(d)
