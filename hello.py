@@ -1,4 +1,4 @@
-Rv=int(input(" enter the string"))
+Rv=int(input(" "))
 count=0
 while(count<Rv):
   count=count+1
